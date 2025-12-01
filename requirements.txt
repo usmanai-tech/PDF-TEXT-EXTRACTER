@@ -1,0 +1,9 @@
+pytesseract 
+pdf2image 
+pillow
+opencv-python
+fitz
+spacy
+python-dotenv
+groq
+streamlit
